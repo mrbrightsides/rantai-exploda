@@ -27,7 +27,7 @@ Modul EDA menyediakan alat analitik awal untuk memahami dan memastikan kualitas 
 - Dashboard responsif untuk analyst data
 
 ```mermaid
-graph TD
+graph RL
     A["Modul Exploratory Data Analysis (EDA)"] --> B["Data Input"]
     A --> C["Analisis Statistik"]
     A --> D["Visualisasi Interaktif"]
@@ -84,6 +84,8 @@ Frontend (React/Vue):
 npm start
 ```
 
+---
+
 ## Penggunaan
 
 - Akses dashboard EDA di https://rantai-exploda.streamlit.app/
@@ -94,7 +96,7 @@ npm start
 
 ---
 
-##Teknologi
+## Teknologi
 
 - Backend: Python (FastAPI), pandas, numpy
 
@@ -118,6 +120,8 @@ Silakan lakukan fork, buat branch, commit perubahan, dan ajukan pull request ses
 - Buat pull request di repository ini
 
 - Harap pastikan kode teruji dan mengikuti style yang sudah ada.
+
+---
 
 ## Lisensi
 
