@@ -18,6 +18,7 @@ with st.sidebar:
     
     ---
     #### 🔮 Vision Statement
+    
     Mewujudkan proses eksplorasi data yang mudah, cepat, dan menyeluruh untuk mendorong pemahaman data yang lebih baik dan fondasi analitik yang kuat di setiap organisasi.
 
     ---
@@ -37,6 +38,7 @@ with st.sidebar:
     
     ---
     ### 🧩 STC Ecosystem
+    
     1. [STC Analytics](https://stc-analytics.streamlit.app/)
     2. [STC GasVision](https://stc-gasvision.streamlit.app/)
     3. [STC Converter](https://stc-converter.streamlit.app/)
@@ -48,6 +50,7 @@ with st.sidebar:
 
     ---
     ### ☂ RANTAI Communities
+    
     1. [Learn3](https://learn3.streamlit.app/)
     2. [BlockPedia](https://blockpedia.streamlit.app/)
     3. [SmartFaith](https://smartfaith.streamlit.app/)
@@ -59,6 +62,7 @@ with st.sidebar:
     
     ---
     #### 🙌 Dukungan & kontributor
+    
     - ⭐ **Star / Fork**: [GitHub repo](https://github.com/mrbrightsides/rantai-exploda)
     - Built with 💙 by [Khudri](https://s.id/khudri)
     - Dukung pengembangan proyek ini melalui: 
