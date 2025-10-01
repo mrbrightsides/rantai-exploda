@@ -27,7 +27,7 @@ Modul EDA menyediakan alat analitik awal untuk memahami dan memastikan kualitas 
 - Dashboard responsif untuk analyst data
 
 ```mermaid
-graph RL
+graph LR
     A["Modul Exploratory Data Analysis (EDA)"] --> B["Data Input"]
     A --> C["Analisis Statistik"]
     A --> D["Visualisasi Interaktif"]
